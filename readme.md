@@ -1,11 +1,6 @@
-### To run the file in localhost
- **_uvicorn app:app --reload_**
+Application is running on port 5000 which is mapped to docker port 300
 
-
-### To view the results , open the below URL in browser
-_http://127.0.0.1:8000_
-
-### To view the results in docker
-_http://localhost/_
+### To view the results
+_http://localhost/http://localhost:300
 
 ### Testing git actions
